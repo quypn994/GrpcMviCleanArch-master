@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "io.grpc.domain.request";
+option java_outer_classname = "Requestprort";
+
+
+package request;
+
+service RequestNodes {
+  rpc SetTurnOn (TurnOnRequest) returns (SettingReply) {}
+
+}
+
+message TurnOnRequest {
+  string androidId = 1;
+  uint64 powerOnTime = 2;
+}
+
+message SettingReply {
+  uint32 intervalCon = 1;
+  uint32 startTime = 2;
+}
+

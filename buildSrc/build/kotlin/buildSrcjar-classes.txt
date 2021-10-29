@@ -1,0 +1,1 @@
+D:\Android\GrpcMviCleanArch-master\buildSrc\build\classes\kotlin\main\Dependencies.class;D:\Android\GrpcMviCleanArch-master\buildSrc\build\classes\kotlin\main\Versions.class
