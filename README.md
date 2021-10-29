@@ -1,6 +1,6 @@
 ![banner](https://miro.medium.com/max/784/1*yMpBGtp4ifmc3u7vnEi4wQ.png)
 
-I used :
+Used :
 1. clean architecture mvi
 2. Grpc
 3. coroutines
